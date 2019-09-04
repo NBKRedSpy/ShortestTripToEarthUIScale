@@ -8,10 +8,10 @@ Compatible with 1.0.11
 
 
 ## Installation
-- Download BepinEx (used to load the mod into the game)  [Bepis x64 5.0](https://builds.bepis.io/builds/bepinex_be/BepInEx_x64_31b53d3_5.0.0.144.zip)
+- Download BepinEx (used to load the mod into the game)  [here](https://builds.bepis.io/builds/bepinex_be/BepInEx_x64_31b53d3_5.0.0.144.zip)
 - Extract the contents of the BepinEx .zip file into the Shortest Trip to Earth directory
   - The game is generally located in the Steam Install Directory at steamapps\common\Shortest Trip to Earth
-- Download the [StteUiScale.dll](https://github.com/NBKRedSpy/ShortestTripToEarthUIScale/releases/download/v1.0/StteUiScale.dll) and copy to the BepInEx plugin directory
+- Download the StteUiScale.dll [here](https://github.com/NBKRedSpy/ShortestTripToEarthUIScale/releases/download/v1.0/StteUiScale.dll) and copy to the BepInEx plugin directory
   - For example (steamapps\common\Shortest Trip to Earth\BepInEx\plugins)
 - Run Shortest Trip to Earth
 
